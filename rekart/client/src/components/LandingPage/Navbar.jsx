@@ -46,7 +46,7 @@ const Navbar = () => {
             <a className="my-1 text-gray-700 font-medium  hover:text-indigo-500 md:mx-4 md:my-0" href="/repurpose">Repurpose</a>
             <a className="my-1 text-gray-700 font-medium  hover:text-indigo-500 md:mx-4 md:my-0" href="/recycle">Recycle</a>
             <a className="my-1 text-gray-700 font-medium  hover:text-indigo-500 md:mx-4 md:my-0" href="/upload">Upload</a>
-            <a className="my-1 text-gray-700 font-medium  hover:text-indigo-500 md:mx-4 md:my-0" href="/reedback">Feedback</a>
+            <a className="my-1 text-gray-700 font-medium  hover:text-indigo-500 md:mx-4 md:my-0" href="/feedback">Feedback</a>
             <a className="my-1 text-gray-700 font-medium  hover:text-indigo-500 md:mx-4 md:my-0" href="/login">{login}</a>
             <a className="my-1 text-gray-700 font-medium  hover:text-indigo-500 md:mx-4 md:my-0" href="/signup">{signup}</a>
           </div>
