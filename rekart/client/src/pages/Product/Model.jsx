@@ -4,7 +4,7 @@ import { Link } from 'react-router-dom';
 
 const Model = () => {
 
-    const [showModal, setShowModal] = useState(true);
+    // const [showModal, setShowModal] = useState(true);
 
   const handleCloseModal = () => {
     
