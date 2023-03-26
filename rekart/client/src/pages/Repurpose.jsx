@@ -18,16 +18,17 @@ const Repurpose = () => {
                             <img src="aboutus1.png" class="h-80 px-18" alt=""></img>
                         </div>
                         <div class="flex-1 w-32 hover:flex-1 ...">
-                            <h1 class="pt-20 pb-4 text-3xl text-gray-900  font-bold font-serif md:text-4xl  animate-pulse ">What is Repurposing?</h1>
-                            <p class=" mr-10 font-light text-left text-gray-600 dark:text-gray-400 font-serif">Lorem ipsum dolor, sit amet consectetur adipisicing elit. Sit id repudiandae cupiditate officiis dolores ipsum obcaecati, rem nostrum deleniti non minus saepe quo adipisci fugiat, sunt vitae? Delectus, beatae veritatis. Lorem ipsum dolor sit amet consectetur adipisicing elit. Deserunt modi consequatur provident atque a inventore dicta temporibus, fugiat est praesentium omnis? Itaque veritatis corporis aliquid fugiat temporibus, alias quia possimus.</p>
+                            <h1 class="pt-20 pb-4 text-3xl text-gray-900  font-bold  md:text-4xl  animate-pulse ">What is Repurposing?</h1>
+                            <p class=" mr-10 font-light text-left text-gray-600 dark:text-gray-400 ">The process of repurposing involves taking an object or material that was initially designed for a specific use and repurposing it for another function. This can entail adapting the item to suit a new purpose or using it in its existing state for an alternative use. By repurposing, it is possible to be innovative and eco-friendly by prolonging the lifespan of goods, reducing waste, and conserving resources.</p>
                         </div>
                     </div></div>
                 <div>
                     <div class="flex  ">
 
                         <div class="flex-1 w-64 ... py-8 px-12">
-                            <h1 class="pt-20 pb-4 text-3xl text-gray-900  font-bold font-serif md:text-4xl  animate-pulse ">How it works?</h1>
-                            <p class="font-light text-left text-gray-600 dark:text-gray-400 font-serif">Lorem ipsum dolor, sit amet consectetur adipisicing elit. Sit id repudiandae cupiditate officiis dolores ipsum obcaecati, rem nostrum deleniti non minus saepe quo adipisci fugiat, sunt vitae? Delectus, beatae veritatis. Lorem ipsum dolor sit amet consectetur adipisicing elit. Deserunt modi consequatur provident atque a inventore dicta temporibus, fugiat est praesentium omnis? Itaque veritatis corporis aliquid fugiat temporibus, alias quia possimus.</p>
+                            <h1 class="pt-20 pb-4 text-3xl text-gray-900  font-bold  md:text-4xl  animate-pulse "> But,How it works?</h1>
+                            <p class="font-light text-left text-gray-600 dark:text-gray-400 ">Hey.. what's that..can you hear it too? That empty bottle of glass, those worn-out clothes, those handle-less cups, and all such waste items are calling you to repurpose them. But you don’t know how? Don’t worry, REKART’s here for your rescue. Here, you can find the most innovative and beautiful ways, to repurpose all your everyday items that will not only save this planet but turn your place into an Eco-heaven.
+</p>
                         </div>
                         <div class="flex-1 w-32 ...">
                             <img src="Reuse.png" class="h-80 px-10" alt=""></img>
@@ -42,30 +43,19 @@ const Repurpose = () => {
                             <h2 class="font-bold  font-serif text-3xl md:text-3xl lg:text-4xl font-heading text-center pt-4 pb-8 ">Frequently Asked Questions</h2>
                             <div class="flex flex-col divide-y sm:px-8 lg:px-12 xl:px-32 divide-gray-700">
                                 <details>
-                                    <summary class="py-2 outline-none cursor-pointer font-serif font-semibold text-sea_green-900">Optio maiores eligendi molestiae totam dolores similique?</summary>
+                                    <summary class="py-2 outline-none cursor-pointer font-serif font-semibold text-sea_green-900">Turn A Broken Picture Frame Into An Earring Holder</summary>
                                     <div class="px-4 pb-4">
-                                        <p class="font-light text-left text-gray-600 dark:text-gray-400 font-serif">Lorem ipsum dolor sit amet consectetur adipisicing elit. Unde neque in fugiat magni, quas animi enim veritatis deleniti ex. Impedit.</p>
+                                        <p class="font-light text-left text-gray-600 dark:text-gray-400 font-serif">Just run the wire across the frame and then hang up your earrings. This is a great gift idea for girls of all ages and you can run as much wire, making as many levels, as you want. If you have longer earrings that dangle, make longer levels.</p>
                                     </div>
                                 </details>
                                 <details>
-                                    <summary class="py-2 outline-none cursor-pointer font-serif font-semibold text-sea_green-900">Optio maiores eligendi molestiae totam dolores similique?</summary>
+                                    <summary class="py-2 outline-none cursor-pointer font-serif font-semibold text-sea_green-900">Create a Recycling Center with an Old Basket</summary>
                                     <div class="px-4 pb-4">
-                                        <p class="font-light text-left text-gray-600 dark:text-gray-400 font-serif">Lorem ipsum dolor sit amet consectetur adipisicing elit. Unde neque in fugiat magni, quas animi enim veritatis deleniti ex. Impedit.</p>
+                                        <p class="font-light text-left text-gray-600 dark:text-gray-400 font-serif">ou simply place waste baskets inside the wicker basket for your recycling and then label the sections so you know where everything goes. Not only does this help you to put that torn up basket to good use, it gives you a really attractive place to store your recyclables.</p>
                                     </div>
                                 </details>
-                                <details>
-                                    <summary class="py-2 outline-none cursor-pointer font-serif font-semibold text-sea_green-900">Modi dolorem veritatis culpa quos consequuntur beatae itaque excepturi perspiciatis?</summary>
-                                    <div class="px-4 pb-4">
-                                        <p class="font-light text-left text-gray-600 dark:text-gray-400 font-serif">Lorem ipsum dolor sit amet consectetur adipisicing elit. Est aspernatur quae, eos explicabo odit minima libero veniam similique quibusdam doloribus facilis ipsa accusantium vel maiores corrupti! Libero voluptate a doloribus?</p>
-                                    </div>
-                                </details>
-                                <details>
-                                    <summary class="py-2 outline-none cursor-pointer font-serif font-semibold text-sea_green-900">Magni reprehenderit possimus debitis?</summary>
-                                    <div class="px-4 pb-4 space-y-2 ">
-                                        <p class="font-light text-left text-gray-600 dark:text-gray-400 font-serif">Lorem ipsum dolor sit amet consectetur adipisicing elit. Ut voluptates aspernatur dolores in consequatur doloremque inventore reprehenderit, consequuntur perspiciatis architecto.</p>
-                                        <p>Sed consectetur quod tenetur! Voluptatibus culpa incidunt veritatis velit quasi cupiditate unde eaque! Iure, voluptatibus autem eaque unde possimus quae.</p>
-                                    </div>
-                                </details>
+                               
+                               
                             </div>
                         </div>
                     </section>
