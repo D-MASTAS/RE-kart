@@ -2,7 +2,7 @@ import openai
 import pickle
 from typing import Union
 
-openai.api_key = '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'
+openai.api_key = ''
 
 
 def get_api_response(prompt: str) -> Union[str, None]:
