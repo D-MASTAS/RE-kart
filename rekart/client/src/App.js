@@ -10,7 +10,6 @@ import Policy from './pages/Policy';
 import Recycle from "./pages/Recycle"
 import Reuse from "./pages/Reuse";
 import Repurpose from "./pages/Repurpose";
-import Product from "./pages/Product/Product";
 import Cart from "./pages/Cart";
 import Upload from "./pages/Upload";
 
@@ -31,7 +30,6 @@ function App() {
           <Route path="/recycle" element={<Recycle />} />
           <Route path="/reuse" element={<Reuse />} />
           <Route path="/repurpose" element={<Repurpose />} />
-          <Route path="/product" element={<Product />} />
           <Route path="/upload" element={<Upload />} />
           <Route path="/cart" element={<Cart />} />
         </Routes>
